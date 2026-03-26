@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Annika 👋</h1>
 
 <p align="center">
-  <b>CS Student @ Toronto Metropolitan University</b><br>
+  <b>CS Student @ Toronto Met University</b><br>
   Passionate about Cybersecurity & Data Science
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/annikaponnuru">
+  <a href="[https://linkedin.com/in/annikaponnuru](https://www.linkedin.com/in/annika-ponnuru-714155345/)">
     <img src="https://img.shields.io/badge/LinkedIn-annikaponnuru-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
