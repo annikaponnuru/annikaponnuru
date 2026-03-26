@@ -19,7 +19,7 @@
 - 🔐 Deeply interested in **Cybersecurity** — currently building foundational skills in ethical hacking and network security
 - 📊 Exploring **Data Science** and its intersection with security (anomaly detection, threat analysis)
 - 🧠 Currently learning: **Networking fundamentals, Linux security, Python scripting for security**
-- 🎯 Goal: Land a cybersecurity or security-focused data role after graduation
+- 🎯 Goal: Actively seeking internship & co-op oppertunities in IT - let's connect!
 - 📍 Based in **Toronto, ON**
 
 ---
