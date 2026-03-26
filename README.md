@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Annika 👋</h1>
+<h1 align="center">Hi, I'm Annika <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 
 <p align="center">
-  <b>CS Student @ Toronto Met University</b><br>
+  <b>CS Student @ Toronto Metropolitan University</b><br>
   Passionate about Cybersecurity & Data Science
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/annikaponnuru](https://www.linkedin.com/in/annika-ponnuru-714155345/)">
+  <a href="https://www.linkedin.com/in/annika-ponnuru-714155345/">
     <img src="https://img.shields.io/badge/LinkedIn-annikaponnuru-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -40,31 +40,24 @@
 
 ---
 
-### 🔐 Current Focus: Cybersecurity
+### 🧭 Current Focus: Exploring CS
 
-I'm building hands-on skills in:
-- Network scanning & enumeration
-- Python scripting for security automation
-- CTF (Capture the Flag) competitions
-- Linux system security
+As a CS student I'm casting a wide net and diving into different areas:
+- 🔐 **Cybersecurity** — ethical hacking basics, Linux security, networking
+- 📊 **Data Science** — Python data analysis, visualizations, ML fundamentals
+- 🌐 **Web & Software Dev** — building projects to solidify my fundamentals
+- 🧩 **Problem Solving** — algorithms, data structures, and competitive challenges
 
 ---
 
 ### 📌 Featured Projects
 
-> 🚧 *Projects coming soon — check back shortly!*
+#### 🛡️ [Linux Process Behavior Anomaly Detector](https://github.com/annikaponnuru/linux-anomaly-detector) — *In Progress*
+A Python-based security monitoring tool that collects OS-level telemetry (CPU, memory, network, and process activity) to detect unusual system behavior and potential security anomalies on Linux. Includes baseline behavior modeling and a framework for anomaly detection aligned with security best practices.
 
-<!-- Uncomment and fill in as you add projects:
+`Python` `Linux` `OS Internals` `Security Analytics` `Anomaly Detection`
 
-#### 🔍 [Port Scanner](link)
-A Python-based TCP port scanner using raw sockets. Identifies open ports and services on a target host.
-`Python` `Networking` `Sockets`
-
-#### 🧠 [CTF Writeups](link)
-Solutions and walkthroughs for CTF challenges from platforms like TryHackMe and PicoCTF.
-`Security` `Linux` `Cryptography`
-
--->
+---
 
 ---
 
@@ -76,8 +69,5 @@ Solutions and walkthroughs for CTF challenges from platforms like TryHackMe and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annikaponnuru&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
----
 
-<p align="center">
-  <i>"Security is not a product, but a process." — Bruce Schneier</i>
-</p>
+
