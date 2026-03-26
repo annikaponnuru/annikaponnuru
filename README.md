@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Annika 👋</h1>
 
-<!--
-**annikaponnuru/annikaponnuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>CS Student @ Toronto Metropolitan University</b><br>
+  Passionate about Cybersecurity & Data Science
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/annikaponnuru">
+    <img src="https://img.shields.io/badge/LinkedIn-annikaponnuru-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=annikaponnuru&style=flat&color=brightgreen" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Studying Computer Science at **Toronto Metropolitan University**
+- 🔐 Deeply interested in **Cybersecurity** — currently building foundational skills in ethical hacking and network security
+- 📊 Exploring **Data Science** and its intersection with security (anomaly detection, threat analysis)
+- 🧠 Currently learning: **Networking fundamentals, Linux security, Python scripting for security**
+- 🎯 Goal: Land a cybersecurity or security-focused data role after graduation
+- 📍 Based in **Toronto, ON**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🔐 Current Focus: Cybersecurity
+
+I'm building hands-on skills in:
+- Network scanning & enumeration
+- Python scripting for security automation
+- CTF (Capture the Flag) competitions
+- Linux system security
+
+---
+
+### 📌 Featured Projects
+
+> 🚧 *Projects coming soon — check back shortly!*
+
+<!-- Uncomment and fill in as you add projects:
+
+#### 🔍 [Port Scanner](link)
+A Python-based TCP port scanner using raw sockets. Identifies open ports and services on a target host.
+`Python` `Networking` `Sockets`
+
+#### 🧠 [CTF Writeups](link)
+Solutions and walkthroughs for CTF challenges from platforms like TryHackMe and PicoCTF.
+`Security` `Linux` `Cryptography`
+
 -->
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=annikaponnuru&show_icons=true&theme=dark&hide_border=true" height="150" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annikaponnuru&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+</p>
