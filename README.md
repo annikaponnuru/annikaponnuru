@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/annika-ponnuru-714155345/">
     <img src="https://img.shields.io/badge/LinkedIn-annikaponnuru-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=annikaponnuru&style=flat&color=brightgreen" alt="Profile views" />
 </p>
 
 ---
@@ -40,9 +38,9 @@
 
 ---
 
-### 🧭 Current Focus: Exploring CS
+### 🧭 Current Focus: 
 
-As a CS student I'm casting a wide net and diving into different areas:
+I'm currently looking to explore more of these areas:
 - 🔐 **Cybersecurity** — ethical hacking basics, Linux security, networking
 - 📊 **Data Science** — Python data analysis, visualizations, ML fundamentals
 - 🌐 **Web & Software Dev** — building projects to solidify my fundamentals
