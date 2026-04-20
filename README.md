@@ -59,13 +59,6 @@ A Python-based security monitoring tool that collects OS-level telemetry (CPU, m
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annikaponnuru&show_icons=true&theme=dark&hide_border=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annikaponnuru&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
 
 
 
