@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Annika <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 
 <p align="center">
-  <b>CS Student @ Toronto Metropolitan University (Formerly Ryerson)</b><br>
+  <b>CS Student @ Toronto Metropolitan University (Formerly Ryerson University)</b><br>
   Passionate about Cybersecurity & Data Science
 </p>
 
